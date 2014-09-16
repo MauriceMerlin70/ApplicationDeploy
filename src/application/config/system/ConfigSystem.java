@@ -11,6 +11,8 @@ import java.util.logging.Logger;
 public class ConfigSystem {
     
     private static final Logger LOG = Logger.getLogger(ConfigSystem.class.getName());
+    //test local
+    
     /**
      *  java.version Java Runtime Environment version
         java.vendor Java Runtime Environment vendor
