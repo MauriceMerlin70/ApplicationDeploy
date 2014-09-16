@@ -11,6 +11,7 @@ import java.util.logging.Logger;
 public class ConfigSystem {
     
     private static final Logger LOG = Logger.getLogger(ConfigSystem.class.getName());
+    private int a =0;
     //test local
     
     /**
